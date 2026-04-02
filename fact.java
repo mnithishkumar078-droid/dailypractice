@@ -10,7 +10,7 @@ public class fact {
 			s=s*i;
 			System.out.print(s+" " );
 		}
-		
+		o.close();
 	}
     
 }
